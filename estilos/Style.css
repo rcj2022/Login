@@ -10,6 +10,7 @@ body, html{
     background: #5f2c82;
     height: 100vh;
     width: 100vw;
+   
 }
 main{
     position: relative;
@@ -33,10 +34,12 @@ section#login{
 
 }
 section#login > div#imagem{
-    background: #5f2c82 url(../imagem/nuvem.jpg)no-repeat;
+    background: #5f2c82 url(../imagem/tree.jpg)no-repeat;
     background-position: left bottom;
-    background-size: cover;
+    background-size:cover;
     height: 200px;
+   
+   
    
 }
 section#login > div#formulario{
