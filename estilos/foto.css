@@ -1,0 +1,26 @@
+body{
+   /* background-image:  linear-gradient(rgb(63, 82, 145), rgb(52, 158, 105))*/
+}
+
+h1{
+   
+    color: rgb(25, 168, 44);
+    text-align: left;
+    
+  
+}
+p{
+    color: rgb(36, 44, 151);
+    text-align: left;
+    font-size: 20pt;
+    
+}
+img{
+    width: 200px;
+}
+footer p{
+    color: rgb(52, 146, 60);
+  
+}
+
+
